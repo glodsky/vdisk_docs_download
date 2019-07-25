@@ -1,0 +1,975 @@
+Python 3.7.0 (v3.7.0:1bf9cc5093, Jun 27 2018, 04:06:47) [MSC v.1914 32 bit (Intel)] on win32
+Type "copyright", "credits" or "license()" for more information.
+>>> 
+=================== RESTART: C:\down_vdisk_docs\down_z.py ===================
+当前页面是:
+https://vdisk.weibo.com/s/d2rNCv_JiF51x?parents_ref=d2rNCv_IVmawi,d2rNCv_JiF51x&category_id=0&pn=9
+
+浏览器已启动
+已获得该页面!
+页面解析完毕！ 
+当前页找到[9]个文档
+
+<a class="short_name" href="http://vdisk.weibo.com/s/d2rNCv_JiF4LI?category_id=0&amp;parents_ref=d2rNCv_IVmawi,d2rNCv_JiF51x" title="Web Scraping with Python.pdf">Web Scraping with Python.pdf</a>	
+<a class="short_name" href="http://vdisk.weibo.com/s/d2rNCv_JiF4L-?category_id=0&amp;parents_ref=d2rNCv_IVmawi,d2rNCv_JiF51x" title="Programming Google App Engine with Python.pdf">Programming Google App Engine with Py...</a>	
+<a class="short_name" href="http://vdisk.weibo.com/s/d2rNCv_JiF4MD?category_id=0&amp;parents_ref=d2rNCv_IVmawi,d2rNCv_JiF51x" title="Nginx Essentials.pdf">Nginx Essentials.pdf</a>	
+<a class="short_name" href="http://vdisk.weibo.com/s/d2rNCv_JiF4LT?category_id=0&amp;parents_ref=d2rNCv_IVmawi,d2rNCv_JiF51x" title="CoreOS Essentials.pdf">CoreOS Essentials.pdf</a>	
+<a class="short_name" href="http://vdisk.weibo.com/s/d2rNCv_JiF4Mb?category_id=0&amp;parents_ref=d2rNCv_IVmawi,d2rNCv_JiF51x" title="JavaScript with Promises.pdf">JavaScript with Promises.pdf</a>	
+<a class="short_name" href="http://vdisk.weibo.com/s/d2rNCv_JiF4LW?category_id=0&amp;parents_ref=d2rNCv_IVmawi,d2rNCv_JiF51x" title="Arduino Development Cookbook.pdf">Arduino Development Cookbook.pdf</a>	
+<a class="short_name" href="http://vdisk.weibo.com/s/d2rNCv_JiF4LH?category_id=0&amp;parents_ref=d2rNCv_IVmawi,d2rNCv_JiF51x" title="Pro XAML with C#.pdf">Pro XAML with C#.pdf</a>	
+<a class="short_name" href="http://vdisk.weibo.com/s/d2rNCv_JiF4LO?category_id=0&amp;parents_ref=d2rNCv_IVmawi,d2rNCv_JiF51x" title="Pro Android 5.pdf">Pro Android 5.pdf</a>	
+<a class="short_name" href="http://vdisk.weibo.com/s/d2rNCv_JiF4Mh?category_id=0&amp;parents_ref=d2rNCv_IVmawi,d2rNCv_JiF51x" title="Building Web Applications with Flask.pdf">Building Web Applications with Flask.p...</a>	
+
+
+已找到第1个文档: Web Scraping with Python.pdf
+Web Scraping with Python.pdf 正在下载中...
+Web Scraping with Python.pdf 下载成功！
+
+已找到第2个文档: Programming Google App Engine with Py...
+Programming Google App Engine with Py... 正在下载中...
+Programming Google App Engine with Py... 下载成功！
+
+已找到第3个文档: Nginx Essentials.pdf
+Nginx Essentials.pdf 正在下载中...
+Nginx Essentials.pdf 下载成功！
+
+已找到第4个文档: CoreOS Essentials.pdf
+CoreOS Essentials.pdf 正在下载中...
+CoreOS Essentials.pdf 下载成功！
+
+已找到第5个文档: JavaScript with Promises.pdf
+JavaScript with Promises.pdf 正在下载中...
+JavaScript with Promises.pdf 下载成功！
+
+已找到第6个文档: Arduino Development Cookbook.pdf
+Arduino Development Cookbook.pdf 正在下载中...
+Arduino Development Cookbook.pdf 下载成功！
+
+已找到第7个文档: Pro XAML with C#.pdf
+Pro XAML with C#.pdf 正在下载中...
+Pro XAML with C#.pdf 下载成功！
+
+已找到第8个文档: Pro Android 5.pdf
+Pro Android 5.pdf 正在下载中...
+Pro Android 5.pdf 下载成功！
+
+已找到第9个文档: Building Web Applications with Flask.p...
+Building Web Applications with Flask.p... 正在下载中...
+Building Web Applications with Flask.p... 下载成功！
+
+
+本页面操作已经结束!请前往下载位置(C:\Users\Administrator\Desktop\Huffman code)查看下载文件.  Y(^O^)Y 
+
+当前页面是:
+https://vdisk.weibo.com/s/d2rNCv_JiF51x?parents_ref=d2rNCv_IVmawi,d2rNCv_JiF51x&category_id=0&pn=10
+
+浏览器已启动
+已获得该页面!
+页面解析完毕！ 
+当前页找到[8]个文档
+
+<a class="short_name" href="http://vdisk.weibo.com/s/d2rNCv_JiF4Mj?category_id=0&amp;parents_ref=d2rNCv_IVmawi,d2rNCv_JiF51x" title="Learning Image Processing with OpenCV.pdf">Learning Image Processing with OpenCV...</a>	
+<a class="short_name" href="http://vdisk.weibo.com/s/d2rNCv_JiF4Mi?category_id=0&amp;parents_ref=d2rNCv_IVmawi,d2rNCv_JiF51x" title="OpenStack Essentials.pdf">OpenStack Essentials.pdf</a>	
+<a class="short_name" href="http://vdisk.weibo.com/s/d2rNCv_JiF4M3?category_id=0&amp;parents_ref=d2rNCv_IVmawi,d2rNCv_JiF51x" title="Drupal 8 Configuration Management.pdf">Drupal 8 Configuration Management.pdf</a>	
+<a class="short_name" href="http://vdisk.weibo.com/s/d2rNCv_JiF4M5?category_id=0&amp;parents_ref=d2rNCv_IVmawi,d2rNCv_JiF51x" title="Xamarin Mobile Application Development.pdf">Xamarin Mobile Application Development...</a>	
+<a class="short_name" href="http://vdisk.weibo.com/s/d2rNCv_JiF4LK?category_id=0&amp;parents_ref=d2rNCv_IVmawi,d2rNCv_JiF51x" title="Natural Language Annotation for Machine Learning.pdf">Natural Language Annotation for Machin...</a>	
+<a class="short_name" href="http://vdisk.weibo.com/s/d2rNCv_JiF4M0?category_id=0&amp;parents_ref=d2rNCv_IVmawi,d2rNCv_JiF51x" title="Python Requests Essentials.pdf">Python Requests Essentials.pdf</a>	
+<a class="short_name" href="http://vdisk.weibo.com/s/d2rNCv_JiF4M2?category_id=0&amp;parents_ref=d2rNCv_IVmawi,d2rNCv_JiF51x" title="Mastering R for Quantitative Finance.pdf">Mastering R for Quantitative Finance.p...</a>	
+<a class="short_name" href="http://vdisk.weibo.com/s/d2rNCv_JiF4Mo?category_id=0&amp;parents_ref=d2rNCv_IVmawi,d2rNCv_JiF51x" title="Natural Language Processing with Java.pdf">Natural Language Processing with Java....</a>	
+
+
+已找到第1个文档: Learning Image Processing with OpenCV...
+Learning Image Processing with OpenCV... 正在下载中...
+Learning Image Processing with OpenCV... 下载成功！
+
+已找到第2个文档: OpenStack Essentials.pdf
+OpenStack Essentials.pdf 正在下载中...
+OpenStack Essentials.pdf 下载成功！
+
+已找到第3个文档: Drupal 8 Configuration Management.pdf
+Drupal 8 Configuration Management.pdf 正在下载中...
+Drupal 8 Configuration Management.pdf 下载成功！
+
+已找到第4个文档: Xamarin Mobile Application Development...
+Xamarin Mobile Application Development... 正在下载中...
+Xamarin Mobile Application Development... 下载成功！
+
+已找到第5个文档: Natural Language Annotation for Machin...
+Natural Language Annotation for Machin... 正在下载中...
+Natural Language Annotation for Machin... 下载成功！
+
+已找到第6个文档: Python Requests Essentials.pdf
+Python Requests Essentials.pdf 正在下载中...
+Python Requests Essentials.pdf 下载成功！
+
+已找到第7个文档: Mastering R for Quantitative Finance.p...
+Mastering R for Quantitative Finance.p... 正在下载中...
+Mastering R for Quantitative Finance.p... 下载成功！
+
+已找到第8个文档: Natural Language Processing with Java....
+Natural Language Processing with Java.... 正在下载中...
+Natural Language Processing with Java.... 下载成功！
+
+
+本页面操作已经结束!请前往下载位置(C:\Users\Administrator\Desktop\Huffman code)查看下载文件.  Y(^O^)Y 
+
+当前页面是:
+https://vdisk.weibo.com/s/d2rNCv_JiF51x?parents_ref=d2rNCv_IVmawi,d2rNCv_JiF51x&category_id=0&pn=11
+
+浏览器已启动
+已获得该页面!
+页面解析完毕！ 
+当前页找到[12]个文档
+
+<a class="short_name" href="http://vdisk.weibo.com/s/d2rNCv_JiF48O?category_id=0&amp;parents_ref=d2rNCv_IVmawi,d2rNCv_JiF51x" title="Building Machine Learning Systems with Python, 2nd Edition.pdf">Building Machine Learning Systems with...</a>	
+<a class="short_name" href="http://vdisk.weibo.com/s/d2rNCv_JiF48g?category_id=0&amp;parents_ref=d2rNCv_IVmawi,d2rNCv_JiF51x" title="Build Your Own PaaS with Docker.pdf">Build Your Own PaaS with Docker.pdf</a>	
+<a class="short_name" href="http://vdisk.weibo.com/s/d2rNCv_JiF488?category_id=0&amp;parents_ref=d2rNCv_IVmawi,d2rNCv_JiF51x" title="CoffeeScript Application Development Cookbook.pdf">CoffeeScript Application Development ...</a>	
+<a class="short_name" href="http://vdisk.weibo.com/s/d2rNCv_JiF48v?category_id=0&amp;parents_ref=d2rNCv_IVmawi,d2rNCv_JiF51x" title="Code-First Development with Entity Framework.pdf">Code-First Development with Entity Fr...</a>	
+<a class="short_name" href="http://vdisk.weibo.com/s/d2rNCv_JiF48j?category_id=0&amp;parents_ref=d2rNCv_IVmawi,d2rNCv_JiF51x" title="GameMaker Essentials.pdf">GameMaker Essentials.pdf</a>	
+<a class="short_name" href="http://vdisk.weibo.com/s/d2rNCv_JiF48I?category_id=0&amp;parents_ref=d2rNCv_IVmawi,d2rNCv_JiF51x" title="Data Manipulation with R, 2nd Edition.pdf">Data Manipulation with R, 2nd Edition...</a>	
+<a class="short_name" href="http://vdisk.weibo.com/s/d2rNCv_JiF4LV?category_id=0&amp;parents_ref=d2rNCv_IVmawi,d2rNCv_JiF51x" title="Functional Programming in JavaScript.pdf">Functional Programming in JavaScript.p...</a>	
+<a class="short_name" href="http://vdisk.weibo.com/s/d2rNCv_JiF4Mx?category_id=0&amp;parents_ref=d2rNCv_IVmawi,d2rNCv_JiF51x" title="Embedded Linux Projects Using Yocto Project Cookbook.pdf">Embedded Linux Projects Using Yocto P...</a>	
+<a class="short_name" href="http://vdisk.weibo.com/s/d2rNCv_JiF4Mu?category_id=0&amp;parents_ref=d2rNCv_IVmawi,d2rNCv_JiF51x" title="Python Algorithms.pdf">Python Algorithms.pdf</a>	
+<a class="short_name" href="http://vdisk.weibo.com/s/d2rNCv_JiF4MC?category_id=0&amp;parents_ref=d2rNCv_IVmawi,d2rNCv_JiF51x" title="Pro Vagrant.pdf">Pro Vagrant.pdf</a>	
+<a class="short_name" href="http://vdisk.weibo.com/s/d2rNCv_JiF4Mg?category_id=0&amp;parents_ref=d2rNCv_IVmawi,d2rNCv_JiF51x" title="Pro Java 8 Programming, 3rd Edition.pdf">Pro Java 8 Programming, 3rd Edition.p...</a>	
+<a class="short_name" href="http://vdisk.weibo.com/s/d2rNCv_JiF4Mz?category_id=0&amp;parents_ref=d2rNCv_IVmawi,d2rNCv_JiF51x" title="Advanced Metaprogramming in Classic C++, 3rd Edition.pdf">Advanced Metaprogramming in Classic C+...</a>	
+
+
+已找到第1个文档: Building Machine Learning Systems with...
+Building Machine Learning Systems with... 正在下载中...
+Building Machine Learning Systems with... 下载成功！
+
+已找到第2个文档: Build Your Own PaaS with Docker.pdf
+Build Your Own PaaS with Docker.pdf 正在下载中...
+Build Your Own PaaS with Docker.pdf 下载成功！
+
+已找到第3个文档: CoffeeScript Application Development ...
+CoffeeScript Application Development ... 正在下载中...
+CoffeeScript Application Development ... 下载成功！
+
+已找到第4个文档: Code-First Development with Entity Fr...
+Code-First Development with Entity Fr... 正在下载中...
+Code-First Development with Entity Fr... 下载未成功，再次尝试下载！
+已刷新网页！
+Code-First Development with Entity Fr... 正在下载中...
+Code-First Development with Entity Fr... 下载成功！
+
+已找到第5个文档: GameMaker Essentials.pdf
+GameMaker Essentials.pdf 正在下载中...
+GameMaker Essentials.pdf 下载成功！
+
+已找到第6个文档: Data Manipulation with R, 2nd Edition...
+Data Manipulation with R, 2nd Edition... 正在下载中...
+Data Manipulation with R, 2nd Edition... 下载未成功，再次尝试下载！
+已刷新网页！
+Data Manipulation with R, 2nd Edition... 正在下载中...
+Data Manipulation with R, 2nd Edition... 下载未成功，再次尝试下载！
+已刷新网页！
+Data Manipulation with R, 2nd Edition... 正在下载中...
+Data Manipulation with R, 2nd Edition... 下载失败！
+
+已找到第7个文档: Functional Programming in JavaScript.p...
+Functional Programming in JavaScript.p... 正在下载中...
+Functional Programming in JavaScript.p... 下载成功！
+
+已找到第8个文档: Embedded Linux Projects Using Yocto P...
+Embedded Linux Projects Using Yocto P... 正在下载中...
+Embedded Linux Projects Using Yocto P... 下载成功！
+
+已找到第9个文档: Python Algorithms.pdf
+Python Algorithms.pdf 正在下载中...
+Python Algorithms.pdf 下载成功！
+
+已找到第10个文档: Pro Vagrant.pdf
+Pro Vagrant.pdf 正在下载中...
+Pro Vagrant.pdf 下载成功！
+
+已找到第11个文档: Pro Java 8 Programming, 3rd Edition.p...
+Pro Java 8 Programming, 3rd Edition.p... 正在下载中...
+Pro Java 8 Programming, 3rd Edition.p... 下载成功！
+
+已找到第12个文档: Advanced Metaprogramming in Classic C+...
+Advanced Metaprogramming in Classic C+... 正在下载中...
+Advanced Metaprogramming in Classic C+... 下载成功！
+
+
+本页面操作已经结束!请前往下载位置(C:\Users\Administrator\Desktop\Huffman code)查看下载文件.  Y(^O^)Y 
+
+当前页面是:
+https://vdisk.weibo.com/s/d2rNCv_JiF51x?parents_ref=d2rNCv_IVmawi,d2rNCv_JiF51x&category_id=0&pn=12
+
+浏览器已启动
+已获得该页面!
+页面解析完毕！ 
+当前页找到[11]个文档
+
+<a class="short_name" href="http://vdisk.weibo.com/s/d2rNCv_JiF48h?category_id=0&amp;parents_ref=d2rNCv_IVmawi,d2rNCv_JiF51x" title="Building Android Games with Cocos2d-x.pdf">Building Android Games with Cocos2d-x...</a>	
+<a class="short_name" href="http://vdisk.weibo.com/s/d2rNCv_JiF47-?category_id=0&amp;parents_ref=d2rNCv_IVmawi,d2rNCv_JiF51x" title="A Practical Guide to TPM 2.0.pdf">A Practical Guide to TPM 2.0.pdf</a>	
+<a class="short_name" href="http://vdisk.weibo.com/s/d2rNCv_JiF484?category_id=0&amp;parents_ref=d2rNCv_IVmawi,d2rNCv_JiF51x" title="MATLAB Symbolic Algebra and Calculus Tools.pdf">MATLAB Symbolic Algebra and Calculu...</a>	
+<a class="short_name" href="http://vdisk.weibo.com/s/d2rNCv_JiF48c?category_id=0&amp;parents_ref=d2rNCv_IVmawi,d2rNCv_JiF51x" title="Embedded Firmware Solutions.pdf">Embedded Firmware Solutions.pdf</a>	
+<a class="short_name" href="http://vdisk.weibo.com/s/d2rNCv_JiF48H?category_id=0&amp;parents_ref=d2rNCv_IVmawi,d2rNCv_JiF51x" title="Pro Windows Server AppFabric.pdf">Pro Windows Server AppFabric.pdf</a>	
+<a class="short_name" href="http://vdisk.weibo.com/s/d2rNCv_JiF48d?category_id=0&amp;parents_ref=d2rNCv_IVmawi,d2rNCv_JiF51x" title="Automating Microsoft Azure with PowerShell.pdf">Automating Microsoft Azure with Power...</a>	
+<a class="short_name" href="http://vdisk.weibo.com/s/d2rNCv_JiF48o?category_id=0&amp;parents_ref=d2rNCv_IVmawi,d2rNCv_JiF51x" title="Proxmox High Availability.pdf">Proxmox High Availability.pdf</a>	
+<a class="short_name" href="http://vdisk.weibo.com/s/d2rNCv_JiF482?category_id=0&amp;parents_ref=d2rNCv_IVmawi,d2rNCv_JiF51x" title="Raspberry Pi Gaming, 2nd Edition.pdf">Raspberry Pi Gaming, 2nd Edition.pdf</a>	
+<a class="short_name" href="http://vdisk.weibo.com/s/d2rNCv_JiF48s?category_id=0&amp;parents_ref=d2rNCv_IVmawi,d2rNCv_JiF51x" title="Android Application Development with Maven.pdf">Android Application Development with M...</a>	
+<a class="short_name" href="http://vdisk.weibo.com/s/d2rNCv_JiF47_?category_id=0&amp;parents_ref=d2rNCv_IVmawi,d2rNCv_JiF51x" title="CentOS High Availability.pdf">CentOS High Availability.pdf</a>	
+<a class="short_name" href="http://vdisk.weibo.com/s/d2rNCv_JiF48D?category_id=0&amp;parents_ref=d2rNCv_IVmawi,d2rNCv_JiF51x" title="Apache Solr Search Patterns.pdf">Apache Solr Search Patterns.pdf</a>	
+
+
+已找到第1个文档: Building Android Games with Cocos2d-x...
+Building Android Games with Cocos2d-x... 正在下载中...
+Building Android Games with Cocos2d-x... 下载成功！
+
+已找到第2个文档: A Practical Guide to TPM 2.0.pdf
+A Practical Guide to TPM 2.0.pdf 正在下载中...
+A Practical Guide to TPM 2.0.pdf 下载成功！
+
+已找到第3个文档: MATLAB Symbolic Algebra and Calculu...
+MATLAB Symbolic Algebra and Calculu... 正在下载中...
+MATLAB Symbolic Algebra and Calculu... 下载成功！
+
+已找到第4个文档: Embedded Firmware Solutions.pdf
+Embedded Firmware Solutions.pdf 正在下载中...
+Embedded Firmware Solutions.pdf 下载成功！
+
+已找到第5个文档: Pro Windows Server AppFabric.pdf
+Pro Windows Server AppFabric.pdf 正在下载中...
+Pro Windows Server AppFabric.pdf 下载成功！
+
+已找到第6个文档: Automating Microsoft Azure with Power...
+Automating Microsoft Azure with Power... 正在下载中...
+Automating Microsoft Azure with Power... 下载成功！
+
+已找到第7个文档: Proxmox High Availability.pdf
+Proxmox High Availability.pdf 正在下载中...
+Proxmox High Availability.pdf 下载成功！
+
+下载超时啦！！！此次操作共下载了113个文档(可能有重复或未下载完的)，到此就结束了哦 ^o^
+当前页面是:
+https://vdisk.weibo.com/s/d2rNCv_JiF51x?parents_ref=d2rNCv_IVmawi,d2rNCv_JiF51x&category_id=0&pn=13
+
+浏览器已启动
+已获得该页面!
+页面解析完毕！ 
+当前页找到[10]个文档
+
+<a class="short_name" href="http://vdisk.weibo.com/s/d2rNCv_JiF48B?category_id=0&amp;parents_ref=d2rNCv_IVmawi,d2rNCv_JiF51x" title="Machine Learning with Spark.pdf">Machine Learning with Spark.pdf</a>	
+<a class="short_name" href="http://vdisk.weibo.com/s/d2rNCv_JiF48T?category_id=0&amp;parents_ref=d2rNCv_IVmawi,d2rNCv_JiF51x" title="Mockito for Spring.pdf">Mockito for Spring.pdf</a>	
+<a class="short_name" href="http://vdisk.weibo.com/s/d2rNCv_JiF48l?category_id=0&amp;parents_ref=d2rNCv_IVmawi,d2rNCv_JiF51x" title="Raspberry Pi Home Automation with Arduino, 2nd Edition.pdf">Raspberry Pi Home Automation with Ard...</a>	
+<a class="short_name" href="http://vdisk.weibo.com/s/d2rNCv_JiF481?category_id=0&amp;parents_ref=d2rNCv_IVmawi,d2rNCv_JiF51x" title="Testing with F#.pdf">Testing with F#.pdf</a>	
+<a class="short_name" href="http://vdisk.weibo.com/s/d2rNCv_JiF48n?category_id=0&amp;parents_ref=d2rNCv_IVmawi,d2rNCv_JiF51x" title="Puppet Cookbook, 3rd Edition.pdf">Puppet Cookbook, 3rd Edition.pdf</a>	
+<a class="short_name" href="http://vdisk.weibo.com/s/d2rNCv_JiF48Q?category_id=0&amp;parents_ref=d2rNCv_IVmawi,d2rNCv_JiF51x" title="SFML Essentials.pdf">SFML Essentials.pdf</a>	
+<a class="short_name" href="http://vdisk.weibo.com/s/d2rNCv_JiF48i?category_id=0&amp;parents_ref=d2rNCv_IVmawi,d2rNCv_JiF51x" title="Splunk Essentials.pdf">Splunk Essentials.pdf</a>	
+<a class="short_name" href="http://vdisk.weibo.com/s/d2rNCv_JiF48p?category_id=0&amp;parents_ref=d2rNCv_IVmawi,d2rNCv_JiF51x" title="Numerical Methods using MATLAB.pdf">Numerical Methods using MATLAB.pdf</a>	
+<a class="short_name" href="http://vdisk.weibo.com/s/d2rNCv_JiF48k?category_id=0&amp;parents_ref=d2rNCv_IVmawi,d2rNCv_JiF51x" title="Practical C++ Financial Programming.pdf">Practical C++ Financial Programming.pd...</a>	
+<a class="short_name" href="http://vdisk.weibo.com/s/d2rNCv_JiF483?category_id=0&amp;parents_ref=d2rNCv_IVmawi,d2rNCv_JiF51x" title="MATLAB Numerical Calculations.pdf">MATLAB Numerical Calculations.pdf</a>	
+
+
+已找到第1个文档: Machine Learning with Spark.pdf
+Machine Learning with Spark.pdf 正在下载中...
+Machine Learning with Spark.pdf 下载成功！
+
+已找到第2个文档: Mockito for Spring.pdf
+Mockito for Spring.pdf 正在下载中...
+Mockito for Spring.pdf 下载成功！
+
+已找到第3个文档: Raspberry Pi Home Automation with Ard...
+Raspberry Pi Home Automation with Ard... 正在下载中...
+Raspberry Pi Home Automation with Ard... 下载成功！
+
+已找到第4个文档: Testing with F#.pdf
+Testing with F#.pdf 正在下载中...
+Testing with F#.pdf 下载成功！
+
+已找到第5个文档: Puppet Cookbook, 3rd Edition.pdf
+Puppet Cookbook, 3rd Edition.pdf 正在下载中...
+Puppet Cookbook, 3rd Edition.pdf 下载成功！
+
+已找到第6个文档: SFML Essentials.pdf
+SFML Essentials.pdf 正在下载中...
+SFML Essentials.pdf 下载成功！
+
+已找到第7个文档: Splunk Essentials.pdf
+Splunk Essentials.pdf 正在下载中...
+Splunk Essentials.pdf 下载成功！
+
+已找到第8个文档: Numerical Methods using MATLAB.pdf
+Numerical Methods using MATLAB.pdf 正在下载中...
+Numerical Methods using MATLAB.pdf 下载成功！
+
+已找到第9个文档: Practical C++ Financial Programming.pd...
+Practical C++ Financial Programming.pd... 正在下载中...
+Practical C++ Financial Programming.pd... 下载成功！
+
+已找到第10个文档: MATLAB Numerical Calculations.pdf
+MATLAB Numerical Calculations.pdf 正在下载中...
+MATLAB Numerical Calculations.pdf 下载成功！
+
+
+本页面操作已经结束!请前往下载位置(C:\Users\Administrator\Desktop\Huffman code)查看下载文件.  Y(^O^)Y 
+
+当前页面是:
+https://vdisk.weibo.com/s/d2rNCv_JiF51x?parents_ref=d2rNCv_IVmawi,d2rNCv_JiF51x&category_id=0&pn=14
+
+浏览器已启动
+已获得该页面!
+页面解析完毕！ 
+当前页找到[11]个文档
+
+<a class="short_name" href="http://vdisk.weibo.com/s/d2rNCv_JiF4qy?category_id=0&amp;parents_ref=d2rNCv_IVmawi,d2rNCv_JiF51x" title="Experimenting with Raspberry Pi.pdf">Experimenting with Raspberry Pi.pdf</a>	
+<a class="short_name" href="http://vdisk.weibo.com/s/d2rNCv_JiF4qV?category_id=0&amp;parents_ref=d2rNCv_IVmawi,d2rNCv_JiF51x" title="R Packages.pdf">R Packages.pdf</a>	
+<a class="short_name" href="http://vdisk.weibo.com/s/d2rNCv_JiF4qJ?category_id=0&amp;parents_ref=d2rNCv_IVmawi,d2rNCv_JiF51x" title="Flask Web Development.pdf">Flask Web Development.pdf</a>	
+<a class="short_name" href="http://vdisk.weibo.com/s/d2rNCv_JiF4qU?category_id=0&amp;parents_ref=d2rNCv_IVmawi,d2rNCv_JiF51x" title="You Don't Know JS_ Async &amp; Performance.pdf">You Don't Know JS_ Async &amp;amp; Perfo...</a>	
+<a class="short_name" href="http://vdisk.weibo.com/s/d2rNCv_JiF48K?category_id=0&amp;parents_ref=d2rNCv_IVmawi,d2rNCv_JiF51x" title="Developing Web Components.pdf">Developing Web Components.pdf</a>	
+<a class="short_name" href="http://vdisk.weibo.com/s/d2rNCv_JiF48L?category_id=0&amp;parents_ref=d2rNCv_IVmawi,d2rNCv_JiF51x" title="Neo4j Essentials.pdf">Neo4j Essentials.pdf</a>	
+<a class="short_name" href="http://vdisk.weibo.com/s/d2rNCv_JiF48b?category_id=0&amp;parents_ref=d2rNCv_IVmawi,d2rNCv_JiF51x" title="KnockoutJS Essentials.pdf">KnockoutJS Essentials.pdf</a>	
+<a class="short_name" href="http://vdisk.weibo.com/s/d2rNCv_JiF48E?category_id=0&amp;parents_ref=d2rNCv_IVmawi,d2rNCv_JiF51x" title="Managing Virtual Infrastructure with Veeam ONE.pdf">Managing Virtual Infrastructure with V...</a>	
+<a class="short_name" href="http://vdisk.weibo.com/s/d2rNCv_JiF48U?category_id=0&amp;parents_ref=d2rNCv_IVmawi,d2rNCv_JiF51x" title="Learning SaltStack.pdf">Learning SaltStack.pdf</a>	
+<a class="short_name" href="http://vdisk.weibo.com/s/d2rNCv_JiF48y?category_id=0&amp;parents_ref=d2rNCv_IVmawi,d2rNCv_JiF51x" title="Learning Python Data Visualization.pdf">Learning Python Data Visualization.pdf</a>	
+<a class="short_name" href="http://vdisk.weibo.com/s/d2rNCv_JiF48R?category_id=0&amp;parents_ref=d2rNCv_IVmawi,d2rNCv_JiF51x" title="Learning OpenStack Networking (Neutron).pdf">Learning OpenStack Networking (Neutro...</a>	
+
+
+已找到第1个文档: Experimenting with Raspberry Pi.pdf
+Experimenting with Raspberry Pi.pdf 正在下载中...
+Experimenting with Raspberry Pi.pdf 下载成功！
+
+已找到第2个文档: R Packages.pdf
+R Packages.pdf 正在下载中...
+R Packages.pdf 下载成功！
+
+已找到第3个文档: Flask Web Development.pdf
+Flask Web Development.pdf 正在下载中...
+Flask Web Development.pdf 下载成功！
+
+已找到第4个文档: You Don't Know JS_ Async &amp; Perfo...
+You Don't Know JS_ Async &amp; Perfo... 正在下载中...
+You Don't Know JS_ Async &amp; Perfo... 下载成功！
+
+已找到第5个文档: Developing Web Components.pdf
+Developing Web Components.pdf 正在下载中...
+Developing Web Components.pdf 下载成功！
+
+已找到第6个文档: Neo4j Essentials.pdf
+Neo4j Essentials.pdf 正在下载中...
+Neo4j Essentials.pdf 下载成功！
+
+已找到第7个文档: KnockoutJS Essentials.pdf
+KnockoutJS Essentials.pdf 正在下载中...
+KnockoutJS Essentials.pdf 下载成功！
+
+已找到第8个文档: Managing Virtual Infrastructure with V...
+Managing Virtual Infrastructure with V... 正在下载中...
+Managing Virtual Infrastructure with V... 下载成功！
+
+已找到第9个文档: Learning SaltStack.pdf
+Learning SaltStack.pdf 正在下载中...
+Learning SaltStack.pdf 下载成功！
+
+已找到第10个文档: Learning Python Data Visualization.pdf
+Learning Python Data Visualization.pdf 正在下载中...
+Learning Python Data Visualization.pdf 下载成功！
+
+已找到第11个文档: Learning OpenStack Networking (Neutro...
+Learning OpenStack Networking (Neutro... 正在下载中...
+Learning OpenStack Networking (Neutro... 下载成功！
+
+
+本页面操作已经结束!请前往下载位置(C:\Users\Administrator\Desktop\Huffman code)查看下载文件.  Y(^O^)Y 
+
+当前页面是:
+https://vdisk.weibo.com/s/d2rNCv_JiF51x?parents_ref=d2rNCv_IVmawi,d2rNCv_JiF51x&category_id=0&pn=15
+
+浏览器已启动
+已获得该页面!
+页面解析完毕！ 
+当前页找到[9]个文档
+
+<a class="short_name" href="http://vdisk.weibo.com/s/d2rNCv_JiF4rc?category_id=0&amp;parents_ref=d2rNCv_IVmawi,d2rNCv_JiF51x" title="Android Recipes, 4th Edition.pdf">Android Recipes, 4th Edition.pdf</a>	
+<a class="short_name" href="http://vdisk.weibo.com/s/d2rNCv_JiF4qC?category_id=0&amp;parents_ref=d2rNCv_IVmawi,d2rNCv_JiF51x" title="R for Data Science.pdf">R for Data Science.pdf</a>	
+<a class="short_name" href="http://vdisk.weibo.com/s/d2rNCv_JiF4qQ?category_id=0&amp;parents_ref=d2rNCv_IVmawi,d2rNCv_JiF51x" title="Mastering Scientific Computing with R.pdf">Mastering Scientific Computing with R....</a>	
+<a class="short_name" href="http://vdisk.weibo.com/s/d2rNCv_JiF4qD?category_id=0&amp;parents_ref=d2rNCv_IVmawi,d2rNCv_JiF51x" title="Learning NServiceBus, 2nd Edition.pdf">Learning NServiceBus, 2nd Edition.pdf</a>	
+<a class="short_name" href="http://vdisk.weibo.com/s/d2rNCv_JiF4qO?category_id=0&amp;parents_ref=d2rNCv_IVmawi,d2rNCv_JiF51x" title="Programming Arduino with LabVIEW.pdf">Programming Arduino with LabVIEW.pdf</a>	
+<a class="short_name" href="http://vdisk.weibo.com/s/d2rNCv_JiF4qz?category_id=0&amp;parents_ref=d2rNCv_IVmawi,d2rNCv_JiF51x" title="The VimL Primer.pdf">The VimL Primer.pdf</a>	
+<a class="short_name" href="http://vdisk.weibo.com/s/d2rNCv_JiF4rj?category_id=0&amp;parents_ref=d2rNCv_IVmawi,d2rNCv_JiF51x" title="Metaprogramming Elixir.pdf">Metaprogramming Elixir.pdf</a>	
+<a class="short_name" href="http://vdisk.weibo.com/s/d2rNCv_JiF4qS?category_id=0&amp;parents_ref=d2rNCv_IVmawi,d2rNCv_JiF51x" title="Pragmatic Unit Testing in Java 8 with JUnit.pdf">Pragmatic Unit Testing in Java 8 with...</a>	
+<a class="short_name" href="http://vdisk.weibo.com/s/d2rNCv_JiF4qH?category_id=0&amp;parents_ref=d2rNCv_IVmawi,d2rNCv_JiF51x" title="Programming Google Glass, 2nd edition.pdf">Programming Google Glass, 2nd edition....</a>	
+
+
+已找到第1个文档: Android Recipes, 4th Edition.pdf
+Android Recipes, 4th Edition.pdf 正在下载中...
+Android Recipes, 4th Edition.pdf 下载成功！
+
+已找到第2个文档: R for Data Science.pdf
+R for Data Science.pdf 正在下载中...
+R for Data Science.pdf 下载成功！
+
+已找到第3个文档: Mastering Scientific Computing with R....
+Mastering Scientific Computing with R.... 正在下载中...
+Mastering Scientific Computing with R.... 下载成功！
+
+已找到第4个文档: Learning NServiceBus, 2nd Edition.pdf
+Learning NServiceBus, 2nd Edition.pdf 正在下载中...
+Learning NServiceBus, 2nd Edition.pdf 下载成功！
+
+已找到第5个文档: Programming Arduino with LabVIEW.pdf
+Programming Arduino with LabVIEW.pdf 正在下载中...
+Programming Arduino with LabVIEW.pdf 下载成功！
+
+已找到第6个文档: The VimL Primer.pdf
+The VimL Primer.pdf 正在下载中...
+The VimL Primer.pdf 下载成功！
+
+已找到第7个文档: Metaprogramming Elixir.pdf
+Metaprogramming Elixir.pdf 正在下载中...
+Metaprogramming Elixir.pdf 下载成功！
+
+已找到第8个文档: Pragmatic Unit Testing in Java 8 with...
+Pragmatic Unit Testing in Java 8 with... 正在下载中...
+Pragmatic Unit Testing in Java 8 with... 下载成功！
+
+已找到第9个文档: Programming Google Glass, 2nd edition....
+Programming Google Glass, 2nd edition.... 正在下载中...
+Programming Google Glass, 2nd edition.... 下载成功！
+
+
+本页面操作已经结束!请前往下载位置(C:\Users\Administrator\Desktop\Huffman code)查看下载文件.  Y(^O^)Y 
+
+当前页面是:
+https://vdisk.weibo.com/s/d2rNCv_JiF51x?parents_ref=d2rNCv_IVmawi,d2rNCv_JiF51x&category_id=0&pn=16
+
+浏览器已启动
+已获得该页面!
+页面解析完毕！ 
+当前页找到[11]个文档
+
+<a class="short_name" href="http://vdisk.weibo.com/s/d2rNCv_JiF4r4?category_id=0&amp;parents_ref=d2rNCv_IVmawi,d2rNCv_JiF51x" title="Apache Solr Essentials.pdf">Apache Solr Essentials.pdf</a>	
+<a class="short_name" href="http://vdisk.weibo.com/s/d2rNCv_JiF4qW?category_id=0&amp;parents_ref=d2rNCv_IVmawi,d2rNCv_JiF51x" title="Mastering System Center Configuration Manager.pdf">Mastering System Center Configuration ...</a>	
+<a class="short_name" href="http://vdisk.weibo.com/s/d2rNCv_JiF4qt?category_id=0&amp;parents_ref=d2rNCv_IVmawi,d2rNCv_JiF51x" title="Apache Hive Essentials.pdf">Apache Hive Essentials.pdf</a>	
+<a class="short_name" href="http://vdisk.weibo.com/s/d2rNCv_JiF4qK?category_id=0&amp;parents_ref=d2rNCv_IVmawi,d2rNCv_JiF51x" title="Raspberry Pi for Secret Agents.pdf">Raspberry Pi for Secret Agents.pdf</a>	
+<a class="short_name" href="http://vdisk.weibo.com/s/d2rNCv_JiF4r7?category_id=0&amp;parents_ref=d2rNCv_IVmawi,d2rNCv_JiF51x" title="Oracle Business Intelligence- The Condensed Guide to Analysis and Reporting.pdf">Oracle Business Intelligence- The Con...</a>	
+<a class="short_name" href="http://vdisk.weibo.com/s/d2rNCv_JiF4qN?category_id=0&amp;parents_ref=d2rNCv_IVmawi,d2rNCv_JiF51x" title="Python for Google App Engine.pdf">Python for Google App Engine.pdf</a>	
+<a class="short_name" href="http://vdisk.weibo.com/s/d2rNCv_JiF4rg?category_id=0&amp;parents_ref=d2rNCv_IVmawi,d2rNCv_JiF51x" title="Xamarin Cross-platform Application Development, 2nd Edition.pdf">Xamarin Cross-platform Application Dev...</a>	
+<a class="short_name" href="http://vdisk.weibo.com/s/d2rNCv_JiF4qr?category_id=0&amp;parents_ref=d2rNCv_IVmawi,d2rNCv_JiF51x" title="Hadoop MapReduce v2 Cookbook, 2nd Edition.pdf">Hadoop MapReduce v2 Cookbook, 2nd Ed...</a>	
+<a class="short_name" href="http://vdisk.weibo.com/s/d2rNCv_JiF4qL?category_id=0&amp;parents_ref=d2rNCv_IVmawi,d2rNCv_JiF51x" title="Arduino Android Blueprints.pdf">Arduino Android Blueprints.pdf</a>	
+<a class="short_name" href="http://vdisk.weibo.com/s/d2rNCv_JiF4qM?category_id=0&amp;parents_ref=d2rNCv_IVmawi,d2rNCv_JiF51x" title="Microsoft Hyper-V PowerShell Automation.pdf">Microsoft Hyper-V PowerShell Automati...</a>	
+<a class="short_name" href="http://vdisk.weibo.com/s/d2rNCv_JiF4q_?category_id=0&amp;parents_ref=d2rNCv_IVmawi,d2rNCv_JiF51x" title="Python Penetration Testing Essentials.pdf">Python Penetration Testing Essentials....</a>	
+
+
+已找到第1个文档: Apache Solr Essentials.pdf
+Apache Solr Essentials.pdf 正在下载中...
+Apache Solr Essentials.pdf 下载成功！
+
+已找到第2个文档: Mastering System Center Configuration ...
+Mastering System Center Configuration ... 正在下载中...
+Mastering System Center Configuration ... 下载未成功，再次尝试下载！
+已刷新网页！
+Mastering System Center Configuration ... 正在下载中...
+Mastering System Center Configuration ... 下载未成功，再次尝试下载！
+已刷新网页！
+Mastering System Center Configuration ... 正在下载中...
+Mastering System Center Configuration ... 下载失败！
+
+已找到第3个文档: Apache Hive Essentials.pdf
+Apache Hive Essentials.pdf 正在下载中...
+Apache Hive Essentials.pdf 下载成功！
+
+已找到第4个文档: Raspberry Pi for Secret Agents.pdf
+Raspberry Pi for Secret Agents.pdf 正在下载中...
+Raspberry Pi for Secret Agents.pdf 下载成功！
+
+已找到第5个文档: Oracle Business Intelligence- The Con...
+Oracle Business Intelligence- The Con... 正在下载中...
+Oracle Business Intelligence- The Con... 下载成功！
+
+已找到第6个文档: Python for Google App Engine.pdf
+Python for Google App Engine.pdf 正在下载中...
+Python for Google App Engine.pdf 下载成功！
+
+已找到第7个文档: Xamarin Cross-platform Application Dev...
+Xamarin Cross-platform Application Dev... 正在下载中...
+Xamarin Cross-platform Application Dev... 下载成功！
+
+已找到第8个文档: Hadoop MapReduce v2 Cookbook, 2nd Ed...
+Hadoop MapReduce v2 Cookbook, 2nd Ed... 正在下载中...
+Hadoop MapReduce v2 Cookbook, 2nd Ed... 下载成功！
+
+已找到第9个文档: Arduino Android Blueprints.pdf
+Arduino Android Blueprints.pdf 正在下载中...
+Arduino Android Blueprints.pdf 下载成功！
+
+已找到第10个文档: Microsoft Hyper-V PowerShell Automati...
+Microsoft Hyper-V PowerShell Automati... 正在下载中...
+Microsoft Hyper-V PowerShell Automati... 下载成功！
+
+已找到第11个文档: Python Penetration Testing Essentials....
+Python Penetration Testing Essentials.... 正在下载中...
+Python Penetration Testing Essentials.... 下载成功！
+
+
+本页面操作已经结束!请前往下载位置(C:\Users\Administrator\Desktop\Huffman code)查看下载文件.  Y(^O^)Y 
+
+当前页面是:
+https://vdisk.weibo.com/s/d2rNCv_JiF51x?parents_ref=d2rNCv_IVmawi,d2rNCv_JiF51x&category_id=0&pn=17
+
+浏览器已启动
+已获得该页面!
+页面解析完毕！ 
+当前页找到[13]个文档
+
+<a class="short_name" href="http://vdisk.weibo.com/s/d2rNCv_JiF4q-?category_id=0&amp;parents_ref=d2rNCv_IVmawi,d2rNCv_JiF51x" title="Android for the BeagleBone Black.pdf">Android for the BeagleBone Black.pdf</a>	
+<a class="short_name" href="http://vdisk.weibo.com/s/d2rNCv_JiF4ri?category_id=0&amp;parents_ref=d2rNCv_IVmawi,d2rNCv_JiF51x" title="Make- Getting Started with Sensors.pdf">Make- Getting Started with Sensors.pdf</a>	
+<a class="short_name" href="http://vdisk.weibo.com/s/d2rNCv_JiF4qE?category_id=0&amp;parents_ref=d2rNCv_IVmawi,d2rNCv_JiF51x" title="Customizing Chef.pdf">Customizing Chef.pdf</a>	
+<a class="short_name" href="http://vdisk.weibo.com/s/d2rNCv_JiF4r0?category_id=0&amp;parents_ref=d2rNCv_IVmawi,d2rNCv_JiF51x" title="Effective awk Programming, 4th Edition.pdf">Effective awk Programming, 4th Edition...</a>	
+<a class="short_name" href="http://vdisk.weibo.com/s/d2rNCv_JiF4qF?category_id=0&amp;parents_ref=d2rNCv_IVmawi,d2rNCv_JiF51x" title="Automating Microsoft Azure Infrastructure Services.pdf">Automating Microsoft Azure Infrastruct...</a>	
+<a class="short_name" href="http://vdisk.weibo.com/s/d2rNCv_JiF4r2?category_id=0&amp;parents_ref=d2rNCv_IVmawi,d2rNCv_JiF51x" title="Learning LibGDX Game Development, 2nd Edition.pdf">Learning LibGDX Game Development, 2n...</a>	
+<a class="short_name" href="http://vdisk.weibo.com/s/d2rNCv_JiF4qB?category_id=0&amp;parents_ref=d2rNCv_IVmawi,d2rNCv_JiF51x" title="SoapUI Cookbook.pdf">SoapUI Cookbook.pdf</a>	
+<a class="short_name" href="http://vdisk.weibo.com/s/d2rNCv_JiF4r8?category_id=0&amp;parents_ref=d2rNCv_IVmawi,d2rNCv_JiF51x" title="Elixir Cookbook.pdf">Elixir Cookbook.pdf</a>	
+<a class="short_name" href="http://vdisk.weibo.com/s/d2rNCv_JiF4By?category_id=0&amp;parents_ref=d2rNCv_IVmawi,d2rNCv_JiF51x" title="Programming Scala, 2nd Edition.pdf">Programming Scala, 2nd Edition.pdf</a>	
+<a class="short_name" href="http://vdisk.weibo.com/s/d2rNCv_JiF4BM?category_id=0&amp;parents_ref=d2rNCv_IVmawi,d2rNCv_JiF51x" title="Elasticsearch- The Definitive Guide.pdf">Elasticsearch- The Definitive Guide.pd...</a>	
+<a class="short_name" href="http://vdisk.weibo.com/s/d2rNCv_JiF4Bz?category_id=0&amp;parents_ref=d2rNCv_IVmawi,d2rNCv_JiF51x" title="Learning Scala.pdf">Learning Scala.pdf</a>	
+<a class="short_name" href="http://vdisk.weibo.com/s/d2rNCv_JiF4Bc?category_id=0&amp;parents_ref=d2rNCv_IVmawi,d2rNCv_JiF51x" title="Raspberry Pi Mechatronics Projects.pdf">Raspberry Pi Mechatronics Projects.pdf</a>	
+<a class="short_name" href="http://vdisk.weibo.com/s/d2rNCv_JiF4Be?category_id=0&amp;parents_ref=d2rNCv_IVmawi,d2rNCv_JiF51x" title="Learning Apache Mahout Classification.pdf">Learning Apache Mahout Classification....</a>	
+
+
+已找到第1个文档: Android for the BeagleBone Black.pdf
+Android for the BeagleBone Black.pdf 正在下载中...
+Android for the BeagleBone Black.pdf 下载成功！
+
+已找到第2个文档: Make- Getting Started with Sensors.pdf
+Make- Getting Started with Sensors.pdf 正在下载中...
+Make- Getting Started with Sensors.pdf 下载成功！
+
+已找到第3个文档: Customizing Chef.pdf
+Customizing Chef.pdf 正在下载中...
+Customizing Chef.pdf 下载成功！
+
+已找到第4个文档: Effective awk Programming, 4th Edition...
+Effective awk Programming, 4th Edition... 正在下载中...
+Effective awk Programming, 4th Edition... 下载成功！
+
+已找到第5个文档: Automating Microsoft Azure Infrastruct...
+Automating Microsoft Azure Infrastruct... 正在下载中...
+Automating Microsoft Azure Infrastruct... 下载成功！
+
+已找到第6个文档: Learning LibGDX Game Development, 2n...
+Learning LibGDX Game Development, 2n... 正在下载中...
+Learning LibGDX Game Development, 2n... 下载成功！
+
+已找到第7个文档: SoapUI Cookbook.pdf
+SoapUI Cookbook.pdf 正在下载中...
+SoapUI Cookbook.pdf 下载成功！
+
+已找到第8个文档: Elixir Cookbook.pdf
+Elixir Cookbook.pdf 正在下载中...
+Elixir Cookbook.pdf 下载成功！
+
+已找到第9个文档: Programming Scala, 2nd Edition.pdf
+Programming Scala, 2nd Edition.pdf 正在下载中...
+Programming Scala, 2nd Edition.pdf 下载成功！
+
+已找到第10个文档: Elasticsearch- The Definitive Guide.pd...
+Elasticsearch- The Definitive Guide.pd... 正在下载中...
+Elasticsearch- The Definitive Guide.pd... 下载成功！
+
+已找到第11个文档: Learning Scala.pdf
+Learning Scala.pdf 正在下载中...
+Learning Scala.pdf 下载成功！
+
+已找到第12个文档: Raspberry Pi Mechatronics Projects.pdf
+Raspberry Pi Mechatronics Projects.pdf 正在下载中...
+Raspberry Pi Mechatronics Projects.pdf 下载成功！
+
+已找到第13个文档: Learning Apache Mahout Classification....
+Learning Apache Mahout Classification.... 正在下载中...
+Learning Apache Mahout Classification.... 下载成功！
+
+
+本页面操作已经结束!请前往下载位置(C:\Users\Administrator\Desktop\Huffman code)查看下载文件.  Y(^O^)Y 
+
+当前页面是:
+https://vdisk.weibo.com/s/d2rNCv_JiF51x?parents_ref=d2rNCv_IVmawi,d2rNCv_JiF51x&category_id=0&pn=18
+
+浏览器已启动
+已获得该页面!
+页面解析完毕！ 
+当前页找到[14]个文档
+
+<a class="short_name" href="http://vdisk.weibo.com/s/d2rNCv_JiF4Bl?category_id=0&amp;parents_ref=d2rNCv_IVmawi,d2rNCv_JiF51x" title="Exploring SE for Android.pdf">Exploring SE for Android.pdf</a>	
+<a class="short_name" href="http://vdisk.weibo.com/s/d2rNCv_JiF4B1?category_id=0&amp;parents_ref=d2rNCv_IVmawi,d2rNCv_JiF51x" title="Google Compute Engine.pdf">Google Compute Engine.pdf</a>	
+<a class="short_name" href="http://vdisk.weibo.com/s/d2rNCv_JiF4B3?category_id=0&amp;parents_ref=d2rNCv_IVmawi,d2rNCv_JiF51x" title="Neo4j in Action.pdf">Neo4j in Action.pdf</a>	
+<a class="short_name" href="http://vdisk.weibo.com/s/d2rNCv_JiF4BL?category_id=0&amp;parents_ref=d2rNCv_IVmawi,d2rNCv_JiF51x" title="Spring in Action, 4th Edition.pdf">Spring in Action, 4th Edition.pdf</a>	
+<a class="short_name" href="http://vdisk.weibo.com/s/d2rNCv_JiF4Bu?category_id=0&amp;parents_ref=d2rNCv_IVmawi,d2rNCv_JiF51x" title="Hyper-V Security.pdf">Hyper-V Security.pdf</a>	
+<a class="short_name" href="http://vdisk.weibo.com/s/d2rNCv_JiF4Bh?category_id=0&amp;parents_ref=d2rNCv_IVmawi,d2rNCv_JiF51x" title="Learning Construct 2.pdf">Learning Construct 2.pdf</a>	
+<a class="short_name" href="http://vdisk.weibo.com/s/d2rNCv_JiF4Bx?category_id=0&amp;parents_ref=d2rNCv_IVmawi,d2rNCv_JiF51x" title="Learning BeagleBone.pdf">Learning BeagleBone.pdf</a>	
+<a class="short_name" href="http://vdisk.weibo.com/s/d2rNCv_JiF4Bd?category_id=0&amp;parents_ref=d2rNCv_IVmawi,d2rNCv_JiF51x" title="HBase Design Patterns.pdf">HBase Design Patterns.pdf</a>	
+<a class="short_name" href="http://vdisk.weibo.com/s/d2rNCv_JiF4Bw?category_id=0&amp;parents_ref=d2rNCv_IVmawi,d2rNCv_JiF51x" title="Getting Started with Julia Programming.pdf">Getting Started with Julia Programming...</a>	
+<a class="short_name" href="http://vdisk.weibo.com/s/d2rNCv_JiF4B2?category_id=0&amp;parents_ref=d2rNCv_IVmawi,d2rNCv_JiF51x" title="PostgreSQL Server Programming, 2nd Edition.pdf">PostgreSQL Server Programming, 2nd E...</a>	
+<a class="short_name" href="http://vdisk.weibo.com/s/d2rNCv_JiF4BH?category_id=0&amp;parents_ref=d2rNCv_IVmawi,d2rNCv_JiF51x" title="Learning Apache Kafka, 2nd Edition.pdf">Learning Apache Kafka, 2nd Edition.pd...</a>	
+<a class="short_name" href="http://vdisk.weibo.com/s/d2rNCv_JiF4Bb?category_id=0&amp;parents_ref=d2rNCv_IVmawi,d2rNCv_JiF51x" title="Mastering jQuery UI.pdf">Mastering jQuery UI.pdf</a>	
+<a class="short_name" href="http://vdisk.weibo.com/s/d2rNCv_JiF4BS?category_id=0&amp;parents_ref=d2rNCv_IVmawi,d2rNCv_JiF51x" title="Bootstrap for ASP.NET MVC.pdf">Bootstrap for ASP.NET MVC.pdf</a>	
+<a class="short_name" href="http://vdisk.weibo.com/s/d2rNCv_JiF4Bk?category_id=0&amp;parents_ref=d2rNCv_IVmawi,d2rNCv_JiF51x" title="Clojure Web Development Essentials.pdf">Clojure Web Development Essentials.pdf</a>	
+
+
+已找到第1个文档: Exploring SE for Android.pdf
+Exploring SE for Android.pdf 正在下载中...
+Exploring SE for Android.pdf 下载未成功，再次尝试下载！
+已刷新网页！
+Exploring SE for Android.pdf 正在下载中...
+Exploring SE for Android.pdf 下载成功！
+
+已找到第2个文档: Google Compute Engine.pdf
+Google Compute Engine.pdf 正在下载中...
+Google Compute Engine.pdf 下载成功！
+
+已找到第3个文档: Neo4j in Action.pdf
+Neo4j in Action.pdf 正在下载中...
+Neo4j in Action.pdf 下载成功！
+
+已找到第4个文档: Spring in Action, 4th Edition.pdf
+Spring in Action, 4th Edition.pdf 正在下载中...
+Spring in Action, 4th Edition.pdf 下载未成功，再次尝试下载！
+已刷新网页！
+Spring in Action, 4th Edition.pdf 正在下载中...
+Spring in Action, 4th Edition.pdf 下载成功！
+
+已找到第5个文档: Hyper-V Security.pdf
+Hyper-V Security.pdf 正在下载中...
+Hyper-V Security.pdf 下载成功！
+
+已找到第6个文档: Learning Construct 2.pdf
+Learning Construct 2.pdf 正在下载中...
+Learning Construct 2.pdf 下载成功！
+
+已找到第7个文档: Learning BeagleBone.pdf
+Learning BeagleBone.pdf 正在下载中...
+Learning BeagleBone.pdf 下载成功！
+
+已找到第8个文档: HBase Design Patterns.pdf
+HBase Design Patterns.pdf 正在下载中...
+HBase Design Patterns.pdf 下载成功！
+
+已找到第9个文档: Getting Started with Julia Programming...
+Getting Started with Julia Programming... 正在下载中...
+Getting Started with Julia Programming... 下载成功！
+
+已找到第10个文档: PostgreSQL Server Programming, 2nd E...
+PostgreSQL Server Programming, 2nd E... 正在下载中...
+PostgreSQL Server Programming, 2nd E... 下载成功！
+
+已找到第11个文档: Learning Apache Kafka, 2nd Edition.pd...
+Learning Apache Kafka, 2nd Edition.pd... 正在下载中...
+Learning Apache Kafka, 2nd Edition.pd... 下载成功！
+
+已找到第12个文档: Mastering jQuery UI.pdf
+Mastering jQuery UI.pdf 正在下载中...
+Mastering jQuery UI.pdf 下载成功！
+
+已找到第13个文档: Bootstrap for ASP.NET MVC.pdf
+Bootstrap for ASP.NET MVC.pdf 正在下载中...
+Bootstrap for ASP.NET MVC.pdf 下载成功！
+
+已找到第14个文档: Clojure Web Development Essentials.pdf
+Clojure Web Development Essentials.pdf 正在下载中...
+Clojure Web Development Essentials.pdf 下载成功！
+
+
+本页面操作已经结束!请前往下载位置(C:\Users\Administrator\Desktop\Huffman code)查看下载文件.  Y(^O^)Y 
+
+当前页面是:
+https://vdisk.weibo.com/s/d2rNCv_JiF51x?parents_ref=d2rNCv_IVmawi,d2rNCv_JiF51x&category_id=0&pn=19
+
+浏览器已启动
+已获得该页面!
+页面解析完毕！ 
+当前页找到[12]个文档
+
+<a class="short_name" href="http://vdisk.weibo.com/s/d2rNCv_JiF4BE?category_id=0&amp;parents_ref=d2rNCv_IVmawi,d2rNCv_JiF51x" title="Cassandra Data Modeling and Analysis.pdf">Cassandra Data Modeling and Analysis.p...</a>	
+<a class="short_name" href="http://vdisk.weibo.com/s/d2rNCv_JiF4BJ?category_id=0&amp;parents_ref=d2rNCv_IVmawi,d2rNCv_JiF51x" title="Java EE 7 Development with WildFly.pdf">Java EE 7 Development with WildFly.p...</a>	
+<a class="short_name" href="http://vdisk.weibo.com/s/d2rNCv_JiF4BW?category_id=0&amp;parents_ref=d2rNCv_IVmawi,d2rNCv_JiF51x" title="Learning Cocos2d-JS Game Development.pdf">Learning Cocos2d-JS Game Development...</a>	
+<a class="short_name" href="http://vdisk.weibo.com/s/d2rNCv_JiF4Br?category_id=0&amp;parents_ref=d2rNCv_IVmawi,d2rNCv_JiF51x" title="Learning D3.js Mapping.pdf">Learning D3.js Mapping.pdf</a>	
+<a class="short_name" href="http://vdisk.weibo.com/s/d2rNCv_JiF4BU?category_id=0&amp;parents_ref=d2rNCv_IVmawi,d2rNCv_JiF51x" title="Unity Game Development Scripting.pdf">Unity Game Development Scripting.pdf</a>	
+<a class="short_name" href="http://vdisk.weibo.com/s/d2rNCv_JiF4BN?category_id=0&amp;parents_ref=d2rNCv_IVmawi,d2rNCv_JiF51x" title="Learning Bootstrap.pdf">Learning Bootstrap.pdf</a>	
+<a class="short_name" href="http://vdisk.weibo.com/s/d2rNCv_JiF4Bo?category_id=0&amp;parents_ref=d2rNCv_IVmawi,d2rNCv_JiF51x" title="Learning R for Geospatial Analysis.pdf">Learning R for Geospatial Analysis.pdf</a>	
+<a class="short_name" href="http://vdisk.weibo.com/s/d2rNCv_JiF4BA?category_id=0&amp;parents_ref=d2rNCv_IVmawi,d2rNCv_JiF51x" title="Mastering SQL Server 2014 Data Mining.pdf">Mastering SQL Server 2014 Data Min...</a>	
+<a class="short_name" href="http://vdisk.weibo.com/s/d2rNCv_JiF4BK?category_id=0&amp;parents_ref=d2rNCv_IVmawi,d2rNCv_JiF51x" title="Scala for Machine Learning.pdf">Scala for Machine Learning.pdf</a>	
+<a class="short_name" href="http://vdisk.weibo.com/s/d2rNCv_JiF4BD?category_id=0&amp;parents_ref=d2rNCv_IVmawi,d2rNCv_JiF51x" title="Getting Started with Electronic Projects.pdf">Getting Started with Electronic Projec...</a>	
+<a class="short_name" href="http://vdisk.weibo.com/s/d2rNCv_JiF4B9?category_id=0&amp;parents_ref=d2rNCv_IVmawi,d2rNCv_JiF51x" title="Building Microservices.pdf">Building Microservices.pdf</a>	
+<a class="short_name" href="http://vdisk.weibo.com/s/d2rNCv_JiF4B8?category_id=0&amp;parents_ref=d2rNCv_IVmawi,d2rNCv_JiF51x" title="Mastering Splunk.pdf">Mastering Splunk.pdf</a>	
+
+
+已找到第1个文档: Cassandra Data Modeling and Analysis.p...
+Cassandra Data Modeling and Analysis.p... 正在下载中...
+Cassandra Data Modeling and Analysis.p... 下载成功！
+
+已找到第2个文档: Java EE 7 Development with WildFly.p...
+Java EE 7 Development with WildFly.p... 正在下载中...
+Java EE 7 Development with WildFly.p... 下载成功！
+
+已找到第3个文档: Learning Cocos2d-JS Game Development...
+Learning Cocos2d-JS Game Development... 正在下载中...
+Learning Cocos2d-JS Game Development... 下载成功！
+
+已找到第4个文档: Learning D3.js Mapping.pdf
+Learning D3.js Mapping.pdf 正在下载中...
+Learning D3.js Mapping.pdf 下载成功！
+
+已找到第5个文档: Unity Game Development Scripting.pdf
+Unity Game Development Scripting.pdf 正在下载中...
+Unity Game Development Scripting.pdf 下载成功！
+
+已找到第6个文档: Learning Bootstrap.pdf
+Learning Bootstrap.pdf 正在下载中...
+Learning Bootstrap.pdf 下载成功！
+
+已找到第7个文档: Learning R for Geospatial Analysis.pdf
+Learning R for Geospatial Analysis.pdf 正在下载中...
+Learning R for Geospatial Analysis.pdf 下载未成功，再次尝试下载！
+已刷新网页！
+Learning R for Geospatial Analysis.pdf 正在下载中...
+Learning R for Geospatial Analysis.pdf 下载未成功，再次尝试下载！
+已刷新网页！
+Learning R for Geospatial Analysis.pdf 正在下载中...
+Learning R for Geospatial Analysis.pdf 下载失败！
+
+已找到第8个文档: Mastering SQL Server 2014 Data Min...
+Mastering SQL Server 2014 Data Min... 正在下载中...
+Mastering SQL Server 2014 Data Min... 下载成功！
+
+已找到第9个文档: Scala for Machine Learning.pdf
+Scala for Machine Learning.pdf 正在下载中...
+Scala for Machine Learning.pdf 下载成功！
+
+已找到第10个文档: Getting Started with Electronic Projec...
+Getting Started with Electronic Projec... 正在下载中...
+Getting Started with Electronic Projec... 下载成功！
+
+已找到第11个文档: Building Microservices.pdf
+Building Microservices.pdf 正在下载中...
+Building Microservices.pdf 下载成功！
+
+已找到第12个文档: Mastering Splunk.pdf
+Mastering Splunk.pdf 正在下载中...
+Mastering Splunk.pdf 下载成功！
+
+
+本页面操作已经结束!请前往下载位置(C:\Users\Administrator\Desktop\Huffman code)查看下载文件.  Y(^O^)Y 
+
+当前页面是:
+https://vdisk.weibo.com/s/d2rNCv_JiF51x?parents_ref=d2rNCv_IVmawi,d2rNCv_JiF51x&category_id=0&pn=20
+
+浏览器已启动
+已获得该页面!
+页面解析完毕！ 
+当前页找到[11]个文档
+
+<a class="short_name" href="http://vdisk.weibo.com/s/d2rNCv_JiF4BX?category_id=0&amp;parents_ref=d2rNCv_IVmawi,d2rNCv_JiF51x" title="Building Mapping Applications with QGIS.pdf">Building Mapping Applications with QG...</a>	
+<a class="short_name" href="http://vdisk.weibo.com/s/d2rNCv_JiF4BF?category_id=0&amp;parents_ref=d2rNCv_IVmawi,d2rNCv_JiF51x" title="PhoneGap for Enterprise.pdf">PhoneGap for Enterprise.pdf</a>	
+<a class="short_name" href="http://vdisk.weibo.com/s/d2rNCv_JiF4BV?category_id=0&amp;parents_ref=d2rNCv_IVmawi,d2rNCv_JiF51x" title="Mastering Hadoop.pdf">Mastering Hadoop.pdf</a>	
+<a class="short_name" href="http://vdisk.weibo.com/s/d2rNCv_JiF4Bi?category_id=0&amp;parents_ref=d2rNCv_IVmawi,d2rNCv_JiF51x" title="Building Web Applications with ArcGIS.pdf">Building Web Applications with ArcGI...</a>	
+<a class="short_name" href="http://vdisk.weibo.com/s/d2rNCv_JiF4BG?category_id=0&amp;parents_ref=d2rNCv_IVmawi,d2rNCv_JiF51x" title="Predictive Analytics with Microsoft Azure Machine Learning.pdf">Predictive Analytics with Microsoft Az...</a>	
+<a class="short_name" href="http://vdisk.weibo.com/s/d2rNCv_JiF4BI?category_id=0&amp;parents_ref=d2rNCv_IVmawi,d2rNCv_JiF51x" title="C Quick Syntax Reference.pdf">C Quick Syntax Reference.pdf</a>	
+<a class="short_name" href="http://vdisk.weibo.com/s/d2rNCv_JiF4BT?category_id=0&amp;parents_ref=d2rNCv_IVmawi,d2rNCv_JiF51x" title="Learning Selenium Testing Tools with Python.pdf">Learning Selenium Testing Tools with ...</a>	
+<a class="short_name" href="http://vdisk.weibo.com/s/d2rNCv_JiF4BO?category_id=0&amp;parents_ref=d2rNCv_IVmawi,d2rNCv_JiF51x" title="Data Scientists at Work.pdf">Data Scientists at Work.pdf</a>	
+<a class="short_name" href="http://vdisk.weibo.com/s/d2rNCv_JiF51S?category_id=0&amp;parents_ref=d2rNCv_IVmawi,d2rNCv_JiF51x" title="Analyzing the Analyzers.pdf">Analyzing the Analyzers.pdf</a>	
+<a class="short_name" href="http://vdisk.weibo.com/s/d2rNCv_JiF51t?category_id=0&amp;parents_ref=d2rNCv_IVmawi,d2rNCv_JiF51x" title="Managing Risk and Information Security.pdf">Managing Risk and Information Security...</a>	
+<a class="short_name" href="http://vdisk.weibo.com/s/d2rNCv_JiF51F?category_id=0&amp;parents_ref=d2rNCv_IVmawi,d2rNCv_JiF51x" title="The Manager's Guide to Web Application Security.pdf">The Manager's Guide to Web Applicatio...</a>	
+
+
+该文档不存在
+已找到第2个文档: PhoneGap for Enterprise.pdf
+PhoneGap for Enterprise.pdf 正在下载中...
+PhoneGap for Enterprise.pdf 下载成功！
+
+已找到第3个文档: Mastering Hadoop.pdf
+Mastering Hadoop.pdf 正在下载中...
+Mastering Hadoop.pdf 下载成功！
+
+该文档不存在
+已找到第5个文档: Predictive Analytics with Microsoft Az...
+Predictive Analytics with Microsoft Az... 正在下载中...
+Predictive Analytics with Microsoft Az... 下载成功！
+
+已找到第6个文档: C Quick Syntax Reference.pdf
+C Quick Syntax Reference.pdf 正在下载中...
+C Quick Syntax Reference.pdf 下载成功！
+
+已找到第7个文档: Learning Selenium Testing Tools with ...
+Learning Selenium Testing Tools with ... 正在下载中...
+Learning Selenium Testing Tools with ... 下载成功！
+
+已找到第8个文档: Data Scientists at Work.pdf
+Data Scientists at Work.pdf 正在下载中...
+Data Scientists at Work.pdf 下载成功！
+
+已找到第9个文档: Analyzing the Analyzers.pdf
+Analyzing the Analyzers.pdf 正在下载中...
+Analyzing the Analyzers.pdf 下载成功！
+
+已找到第10个文档: Managing Risk and Information Security...
+Managing Risk and Information Security... 正在下载中...
+Managing Risk and Information Security... 下载成功！
+
+已找到第11个文档: The Manager's Guide to Web Applicatio...
+The Manager's Guide to Web Applicatio... 正在下载中...
+The Manager's Guide to Web Applicatio... 下载成功！
+
+
+本页面操作已经结束!请前往下载位置(C:\Users\Administrator\Desktop\Huffman code)查看下载文件.  Y(^O^)Y 
+
+当前页面是:
+https://vdisk.weibo.com/s/d2rNCv_JiF51x?parents_ref=d2rNCv_IVmawi,d2rNCv_JiF51x&category_id=0&pn=21
+
+浏览器已启动
+已获得该页面!
+页面解析完毕！ 
+当前页找到[15]个文档
+
+<a class="short_name" href="http://vdisk.weibo.com/s/d2rNCv_JiF517?category_id=0&amp;parents_ref=d2rNCv_IVmawi,d2rNCv_JiF51x" title="Cassandra High Availability.pdf">Cassandra High Availability.pdf</a>	
+<a class="short_name" href="http://vdisk.weibo.com/s/d2rNCv_JiF519?category_id=0&amp;parents_ref=d2rNCv_IVmawi,d2rNCv_JiF51x" title="CentOS System Administration Essentials.pdf">CentOS System Administration Essentia...</a>	
+<a class="short_name" href="http://vdisk.weibo.com/s/d2rNCv_JiF51m?category_id=0&amp;parents_ref=d2rNCv_IVmawi,d2rNCv_JiF51x" title="scikit-learn Cookbook.pdf">scikit-learn Cookbook.pdf</a>	
+<a class="short_name" href="http://vdisk.weibo.com/s/d2rNCv_JiF51g?category_id=0&amp;parents_ref=d2rNCv_IVmawi,d2rNCv_JiF51x" title="Advanced Quantitative Finance with C++.pdf">Advanced Quantitative Finance with C++...</a>	
+<a class="short_name" href="http://vdisk.weibo.com/s/d2rNCv_JiF51R?category_id=0&amp;parents_ref=d2rNCv_IVmawi,d2rNCv_JiF51x" title="Kali Linux Network Scanning Cookbook.pdf">Kali Linux Network Scanning Cookbook....</a>	
+<a class="short_name" href="http://vdisk.weibo.com/s/d2rNCv_JiF51B?category_id=0&amp;parents_ref=d2rNCv_IVmawi,d2rNCv_JiF51x" title="JavaScript Security.pdf">JavaScript Security.pdf</a>	
+<a class="short_name" href="http://vdisk.weibo.com/s/d2rNCv_JiF51A?category_id=0&amp;parents_ref=d2rNCv_IVmawi,d2rNCv_JiF51x" title="Mobile and Web Messaging.pdf">Mobile and Web Messaging.pdf</a>	
+<a class="short_name" href="http://vdisk.weibo.com/s/d2rNCv_JiF51n?category_id=0&amp;parents_ref=d2rNCv_IVmawi,d2rNCv_JiF51x" title="Thoughtful Machine Learning.pdf">Thoughtful Machine Learning.pdf</a>	
+<a class="short_name" href="http://vdisk.weibo.com/s/d2rNCv_JiF51j?category_id=0&amp;parents_ref=d2rNCv_IVmawi,d2rNCv_JiF51x" title="IPython Notebook Essentials.pdf">IPython Notebook Essentials.pdf</a>	
+<a class="short_name" href="http://vdisk.weibo.com/s/d2rNCv_JiF523?category_id=0&amp;parents_ref=d2rNCv_IVmawi,d2rNCv_JiF51x" title="Enyo_ Up and Running, 2nd Edition.pdf">Enyo_ Up and Running, 2nd Edition.pdf</a>	
+<a class="short_name" href="http://vdisk.weibo.com/s/d2rNCv_JiF51C?category_id=0&amp;parents_ref=d2rNCv_IVmawi,d2rNCv_JiF51x" title="Designing for Performance.pdf">Designing for Performance.pdf</a>	
+<a class="short_name" href="http://vdisk.weibo.com/s/d2rNCv_JiF51r?category_id=0&amp;parents_ref=d2rNCv_IVmawi,d2rNCv_JiF51x" title="Pro Python 2nd Edition.pdf">Pro Python 2nd Edition.pdf</a>	
+<a class="short_name" href="http://vdisk.weibo.com/s/d2rNCv_JiF518?category_id=0&amp;parents_ref=d2rNCv_IVmawi,d2rNCv_JiF51x" title="Practical Hadoop Security.pdf">Practical Hadoop Security.pdf</a>	
+<a class="short_name" href="http://vdisk.weibo.com/s/d2rNCv_JiF51Y?category_id=0&amp;parents_ref=d2rNCv_IVmawi,d2rNCv_JiF51x" title="R Recipes.pdf">R Recipes.pdf</a>	
+<a class="short_name" href="http://vdisk.weibo.com/s/d2rNCv_JiF51q?category_id=0&amp;parents_ref=d2rNCv_IVmawi,d2rNCv_JiF51x" title="MATLAB Graphical Programming.pdf">MATLAB Graphical Programming.pdf</a>	
+
+
+已找到第1个文档: Cassandra High Availability.pdf
+Cassandra High Availability.pdf 正在下载中...
+Cassandra High Availability.pdf 下载未成功，再次尝试下载！
+已刷新网页！
+Cassandra High Availability.pdf 正在下载中...
+Cassandra High Availability.pdf 下载成功！
+
+已找到第2个文档: CentOS System Administration Essentia...
+CentOS System Administration Essentia... 正在下载中...
+CentOS System Administration Essentia... 下载成功！
+
+已找到第3个文档: scikit-learn Cookbook.pdf
+scikit-learn Cookbook.pdf 正在下载中...
+scikit-learn Cookbook.pdf 下载成功！
+
+已找到第4个文档: Advanced Quantitative Finance with C++...
+Advanced Quantitative Finance with C++... 正在下载中...
+Advanced Quantitative Finance with C++... 下载成功！
+
+已找到第5个文档: Kali Linux Network Scanning Cookbook....
+Kali Linux Network Scanning Cookbook.... 正在下载中...
+Kali Linux Network Scanning Cookbook.... 下载成功！
+
+已找到第6个文档: JavaScript Security.pdf
+JavaScript Security.pdf 正在下载中...
+JavaScript Security.pdf 下载成功！
+
+已找到第7个文档: Mobile and Web Messaging.pdf
+Mobile and Web Messaging.pdf 正在下载中...
+Mobile and Web Messaging.pdf 下载未成功，再次尝试下载！
+已刷新网页！
+Mobile and Web Messaging.pdf 正在下载中...
+Mobile and Web Messaging.pdf 下载成功！
+
+已找到第8个文档: Thoughtful Machine Learning.pdf
+Thoughtful Machine Learning.pdf 正在下载中...
+Thoughtful Machine Learning.pdf 下载成功！
+
+已找到第9个文档: IPython Notebook Essentials.pdf
+IPython Notebook Essentials.pdf 正在下载中...
+IPython Notebook Essentials.pdf 下载成功！
+
+已找到第10个文档: Enyo_ Up and Running, 2nd Edition.pdf
+Enyo_ Up and Running, 2nd Edition.pdf 正在下载中...
+Enyo_ Up and Running, 2nd Edition.pdf 下载成功！
+
+已找到第11个文档: Designing for Performance.pdf
+Designing for Performance.pdf 正在下载中...
+Designing for Performance.pdf 下载成功！
+
+已找到第12个文档: Pro Python 2nd Edition.pdf
+Pro Python 2nd Edition.pdf 正在下载中...
+Pro Python 2nd Edition.pdf 下载成功！
+
+已找到第13个文档: Practical Hadoop Security.pdf
+Practical Hadoop Security.pdf 正在下载中...
+Practical Hadoop Security.pdf 下载成功！
+
+已找到第14个文档: R Recipes.pdf
+R Recipes.pdf 正在下载中...
+R Recipes.pdf 下载成功！
+
+已找到第15个文档: MATLAB Graphical Programming.pdf
+MATLAB Graphical Programming.pdf 正在下载中...
+MATLAB Graphical Programming.pdf 下载成功！
+
+
+本页面操作已经结束!请前往下载位置(C:\Users\Administrator\Desktop\Huffman code)查看下载文件.  Y(^O^)Y 
+
+当前页面是:
+https://vdisk.weibo.com/s/d2rNCv_JiF51x?parents_ref=d2rNCv_IVmawi,d2rNCv_JiF51x&category_id=0&pn=22
+
+浏览器已启动
+已获得该页面!
+页面解析完毕！ 
+当前页找到[8]个文档
+
+<a class="short_name" href="http://vdisk.weibo.com/s/d2rNCv_JiF51e?category_id=0&amp;parents_ref=d2rNCv_IVmawi,d2rNCv_JiF51x" title="Flask Framework Cookbook.pdf">Flask Framework Cookbook.pdf</a>	
+<a class="short_name" href="http://vdisk.weibo.com/s/d2rNCv_JiF51f?category_id=0&amp;parents_ref=d2rNCv_IVmawi,d2rNCv_JiF51x" title="Puppet Essentials.pdf">Puppet Essentials.pdf</a>	
+<a class="short_name" href="http://vdisk.weibo.com/s/d2rNCv_JiF51G?category_id=0&amp;parents_ref=d2rNCv_IVmawi,d2rNCv_JiF51x" title="Practical Linux Infrastructure.pdf">Practical Linux Infrastructure.pdf</a>	
+<a class="short_name" href="http://vdisk.weibo.com/s/d2rNCv_JiF51X?category_id=0&amp;parents_ref=d2rNCv_IVmawi,d2rNCv_JiF51x" title="WebRTC Integrator's Guide.pdf">WebRTC Integrator's Guide.pdf</a>	
+<a class="short_name" href="http://vdisk.weibo.com/s/d2rNCv_JiF51z?category_id=0&amp;parents_ref=d2rNCv_IVmawi,d2rNCv_JiF51x" title="Web App Testing Using Knockout JS.pdf">Web App Testing Using Knockout JS.pd...</a>	
+<a class="short_name" href="http://vdisk.weibo.com/s/d2rNCv_JiF51s?category_id=0&amp;parents_ref=d2rNCv_IVmawi,d2rNCv_JiF51x" title="OpenVZ Essentials.pdf">OpenVZ Essentials.pdf</a>	
+<a class="short_name" href="http://vdisk.weibo.com/s/d2rNCv_JiF51a?category_id=0&amp;parents_ref=d2rNCv_IVmawi,d2rNCv_JiF51x" title="Learning Alfresco Web Scripts.pdf">Learning Alfresco Web Scripts.pdf</a>	
+<a class="short_name" href="http://vdisk.weibo.com/s/d2rNCv_JiF51_?category_id=0&amp;parents_ref=d2rNCv_IVmawi,d2rNCv_JiF51x" title="HBase Essentials.pdf">HBase Essentials.pdf</a>	
+
+
+已找到第1个文档: Flask Framework Cookbook.pdf
+Flask Framework Cookbook.pdf 正在下载中...
+Flask Framework Cookbook.pdf 下载未成功，再次尝试下载！
+已刷新网页！
+Flask Framework Cookbook.pdf 正在下载中...
+Flask Framework Cookbook.pdf 下载成功！
+
+已找到第2个文档: Puppet Essentials.pdf
+Puppet Essentials.pdf 正在下载中...
+Puppet Essentials.pdf 下载成功！
+
+已找到第3个文档: Practical Linux Infrastructure.pdf
+Practical Linux Infrastructure.pdf 正在下载中...
+Practical Linux Infrastructure.pdf 下载成功！
+
+已找到第4个文档: WebRTC Integrator's Guide.pdf
+WebRTC Integrator's Guide.pdf 正在下载中...
+WebRTC Integrator's Guide.pdf 下载成功！
+
+该文档不存在
+已找到第6个文档: OpenVZ Essentials.pdf
+OpenVZ Essentials.pdf 正在下载中...
+OpenVZ Essentials.pdf 下载成功！
+
+已找到第7个文档: Learning Alfresco Web Scripts.pdf
+Learning Alfresco Web Scripts.pdf 正在下载中...
+Learning Alfresco Web Scripts.pdf 下载成功！
+
+已找到第8个文档: HBase Essentials.pdf
+HBase Essentials.pdf 正在下载中...
+HBase Essentials.pdf 下载未成功，再次尝试下载！
+已刷新网页！
+HBase Essentials.pdf 正在下载中...
+HBase Essentials.pdf 下载未成功，再次尝试下载！
+已刷新网页！
+HBase Essentials.pdf 正在下载中...
+HBase Essentials.pdf 下载失败！
+
+
+本页面操作已经结束!请前往下载位置(C:\Users\Administrator\Desktop\Huffman code)查看下载文件.  Y(^O^)Y 
+
+开始时间： 2019-07-25 17:58:01.091965
+结束时间： 2019-07-25 18:50:05.007143
+一共用时： 0:52:03.915178
+>>> 
